@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding:0; 
+    
+}
+img{
+    top:0;
+    left:0;
+    position:absolute;
+    opacity:0
+}
+h1{
+    top: 90px;
+    left: 300px;;
+    position:absolute;
+    margin-top:100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Consolas, Monaco;
+    font-size:5pc;
+}
+.btn{
+    
+    font-size:4pc ;
+    border: none;
+    border-radius:3%;
+    padding:7,10,7,10;
+    font-family: sans-serif;
+
+    
+}
+#btnyes{
+    top:450px;
+    left:470px;
+    position: absolute;
+    background-color:rgb(127, 220, 20);
+}
+#btnno{
+    top:450px;
+    left:650px;
+    position: absolute;
+    background-color:rgb(231, 55, 31);
+}
+img{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
